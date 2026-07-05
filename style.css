@@ -246,18 +246,15 @@ section h2{
    CONTACT
 ========================== */
 
-#contact{
-    text-align:center;
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
 }
 
-#contact p{
-    margin:15px 0;
-    font-size:18px;
-}
-
-#contact a{
-    color:#4f7cff;
-    text-decoration:none;
+.social-icons i {
+    font-size: 35px;
+    color: white;
 }
 
 /* ==========================
