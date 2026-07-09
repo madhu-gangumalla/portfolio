@@ -9,11 +9,6 @@
 }
 body{
     bg-image: url("images (2).jpg");
-    bg-size: cover;
-    bg-repeat: no-repeat;
-    bg-position: center;
-    bg-attachment: fixed;
-
     color: #fff;
     overflow-x: hidden;
 }
