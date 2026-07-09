@@ -9,14 +9,12 @@
 }
 body{
     background-image: url("images (2).jpg");
-    color: #fff;
-    overflow-x: hidden;
-}
-background-image{
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-}    
+    color: #fff;
+    overflow-x: hidden;
+}
 header{
     position:fixed;
     width:100%;
