@@ -7,12 +7,12 @@
     font-family:'Poppins',sans-serif;
     scroll-behavior:smooth;
 }
-
 body{
-    background-image:"images (2).jpg";
-    color:#fff;
-    overflow-x:hidden;
+    background-image: url("images (2).jpg");
+    color: #fff;
+    overflow-x: hidden;
 }
+
 header{
     position:fixed;
     width:100%;
