@@ -8,7 +8,7 @@
     scroll-behavior:smooth;
 }
 body{
-    background-image: url("images (2).jpg");
+    bg-image: url("images (2).jpg");
     color: #fff;
     overflow-x: hidden;
 }
