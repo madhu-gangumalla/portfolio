@@ -10,9 +10,10 @@
 body{
     background-image: url("images (2).jpg");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
-    color: #fff;
+    background-attachment: fixed;
+    color: white;
     overflow-x: hidden;
 }
 header{
