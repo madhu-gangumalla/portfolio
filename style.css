@@ -8,7 +8,7 @@
     scroll-behavior:smooth;
 }
 body{
-    background-image: url("images (2).jpg");
+    background-image: url("background-image.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -22,7 +22,7 @@ header{
     top:0;
     left:0;
     z-index:1000;
-    background-image: url("images (2).jpg");
+    background-image: url("background-image.png");
     padding:20px 8%;
     border-bottom:1px solid rgba(255,255,255,.08);
 }
