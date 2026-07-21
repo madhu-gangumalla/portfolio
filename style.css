@@ -112,6 +112,15 @@ nav ul li a:hover{
 .hero img:hover{
     transform:scale(1.05);
 }
+.social-icons {
+    display: flex;
+    justify-content: left;
+    gap: 22px;
+}
+
+.social-icons i {
+    font-size: 32px;
+    color: white;
 .btn{
     display:inline-block;
     background:#4f7cff;
